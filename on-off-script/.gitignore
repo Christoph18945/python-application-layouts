@@ -1,0 +1,8 @@
+# simple .gitignore example file
+# .gitignore examples: https://github.com/github/gitignore
+# pip install -r requirements.txt
+# 
+.DS_STORE
+__pycache__/
+*.py[cod]
+*$py.class
